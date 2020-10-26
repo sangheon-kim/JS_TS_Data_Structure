@@ -1,0 +1,20 @@
+{
+  "name": "data_structure",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangheon-kim/JS_TS_Data_Structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangheon-kim/JS_TS_Data_Structure/issues"
+  },
+  "homepage": "https://github.com/sangheon-kim/JS_TS_Data_Structure#readme"
+}
