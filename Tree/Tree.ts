@@ -198,3 +198,4 @@ BST.insert(17);
 BST.delete(31);
 // console.log(BST.search(0));
 // console.log(BST)
+export {}
